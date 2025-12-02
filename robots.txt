@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://best.pairwise.org/index_sitemap.xml
